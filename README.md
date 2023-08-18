@@ -22,12 +22,12 @@ Contributions to this project are welcome. Please submit your pull requests to t
 
 # Steps are as follows :
 ## Steps for Hand Gesture
-Step 1:Installing the anaconda
-Step 2:Installing the python latest version
-Step 3:Launch the vs code using the anaconda
-Step 4:Open the folder where handgesture and voicegesture folder are stored.
-Step 5:Steps for handgesture
-       step 5(i): install the following libraries in terminal window 
+Step 1: Installing the anaconda
+Step 2: Installing the python latest version
+Step 3: Launch the vs code using the anaconda
+Step 4: Open the folder where handgesture and voicegesture folder are stored.
+Step 5: Steps for handgesture
+Step 5(i): install the following libraries in terminal window 
                  pip install opencv-python
                  pip install mediapipe
                  pip install pyautogui
@@ -35,7 +35,7 @@ Step 5:Steps for handgesture
                  pip install comtypes
                  pip install pycaw
                  pip install screen-brightness-control
-      step 5(ii):Run the Gesture_Controller.py file.
+Step 5(ii): Run the Gesture_Controller.py file.
 
 ## Steps for voice-assistant
        step 6(a): install the following libraries in terminal window
