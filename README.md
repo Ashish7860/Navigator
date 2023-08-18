@@ -27,7 +27,7 @@ Step 2:Installing the python latest version
 Step 3:Launch the vs code using the anaconda
 Step 4:Open the folder where handgesture and voicegesture folder are stored.
 Step 5:Steps for handgesture
-       step 5(i):install the following libraries in terminal window 
+       step 5(i): install the following libraries in terminal window 
                  pip install opencv-python
                  pip install mediapipe
                  pip install pyautogui
