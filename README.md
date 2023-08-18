@@ -21,6 +21,7 @@ Contributing
 Contributions to this project are welcome. Please submit your pull requests to the master branch.
 
 # Steps are as follows :
+## Steps for Hand Gesture
 Step 1:Installing the anaconda
 Step 2:Installing the python latest version
 Step 3:Launch the vs code using the anaconda
@@ -36,16 +37,16 @@ Step 5:Steps for handgesture
                  pip install screen-brightness-control
       step 5(ii):Run the Gesture_Controller.py file.
 
-Step 6:Steps for voice-assistant
-       step 6(i):install the following libraries in terminal window
+## Steps for voice-assistant
+       step 6(a): install the following libraries in terminal window
                  pip install requests
                  pip install pyttsx3
                  pip install SpeechRecognition
                  pip install python-decouple
-		     pip install pywhatkit
-		     pip install wikipedia
+		 pip install pywhatkit
+		 pip install wikipedia
  
-       step 6(iii) Create .env file and set the variables
+       step 6(b) Create .env file and set the variables
 
-       step 6(ii):Run the main.py file.
+       step 6(c): Run the main.py file.
                  
